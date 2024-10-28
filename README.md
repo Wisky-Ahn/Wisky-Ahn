@@ -3,6 +3,14 @@
 - 👨‍💻I'm Hyeonjun, `Fullstack Programer` from 🇰🇷<b>South Korea</b> 
 <br>
 
+<h3 align="center">🛠 Skill 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+</div>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <hr>
 <div align="center">
