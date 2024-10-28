@@ -1,13 +1,10 @@
 ## Hi there 👋
 
 - 👨‍💻I'm Hyeonjun, `Fullstack Programer` from 🇰🇷<b>South Korea</b> 
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wisky-Ahn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisky-Ahn)
-
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
+<hr>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -16,6 +13,11 @@
 </div>
 
 <br>
+<h3>🖊️ETC.</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wisky-Ahn&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisky-Ahn)
+
 <!--
 **Wisky-Ahn/Wisky-Ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
