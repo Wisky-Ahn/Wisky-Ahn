@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Wisky-Ahn%20Hub&desc=Welcome!&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Wisky-Ahn%20Hub&desc=Welcome!&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 ## Hi there 👋
 
