@@ -25,7 +25,6 @@
    <a href="https://wiskyahn.notion.site/Googbye-World-11f7cd1e955380489c37c7694fbda3ce" target="_blank">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 </div>
 
 <br>
