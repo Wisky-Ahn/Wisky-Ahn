@@ -2,16 +2,20 @@
 
 ## Hi there 👋
 
-- 👨‍💻I'm Hyeonjun, `Fullstack Programer` from 🇰🇷<b>South Korea</b> 
+- 👨‍💻I'm Hyeonjun, `Fullstack Programer` from 🇰🇷<b>South Korea</b>
+- 🙆🏻‍♂️ Web Backend Developer 준비중입니다.
 <br>
 
-<h3 align="center">🛠 Skill 🛠</h3>
+<h3 align="center">💻 Skill 💻</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  
+  
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
