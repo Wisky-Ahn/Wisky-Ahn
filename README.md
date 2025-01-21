@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<details>
-<summary align="center">About Me</summary>
 ## Hi there 👋
 
 - 👨‍💻I'm Hyeonjun, `Fullstack Programer` from 🇰🇷<b>South Korea</b> 
@@ -17,7 +15,6 @@
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<hr>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
@@ -26,7 +23,6 @@
   </a>
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 </div>
-</details>
 
 <br>
 <h3>🖊️ETC.</h3>
